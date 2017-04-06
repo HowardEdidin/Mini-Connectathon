@@ -14,3 +14,6 @@ Implementation Resources
 [QUICK Model Generator](https://github.com/cqframework/FhirProfileTools)
 
 [Payer Extract IG Source](https://github.com/cqframework/payerextract)
+
+
+[**Back to Directory** ](https://howardedidin.github.io/Mini-Connectathon/)

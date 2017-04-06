@@ -1,4 +1,3 @@
-
 Laptop Setup and Configuration
 ==============================
 
@@ -13,6 +12,11 @@ Setting up an environment
 
 1. Visual Studio 2015
 2. Create a new .Net solution and add the Hl7.Fhir.STU3 package with NuGet 
+
+Recommended 
+> Install Microsoft [Azure SDK ](https://www.microsoft.com/en-us/download/details.aspx?id=54289)for Net
+
+
 
 ### Java ###
 

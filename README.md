@@ -1,1 +1,3 @@
-# Mini-Connectathon
+Mini-Connectathon
+===========
+

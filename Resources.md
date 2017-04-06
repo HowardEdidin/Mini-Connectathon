@@ -18,3 +18,6 @@ Resources
 [FHIR Quality Profiles (QI-Core)](http://hl7.org/FHIR/us/qicore/2017Jan/index.html)
 
 [Payer Extract Implementation Guide (IG)](http://ig.fhir.me/cqframework/payerextract/)
+
+
+[**Back to Directory** ](https://howardedidin.github.io/Mini-Connectathon/)

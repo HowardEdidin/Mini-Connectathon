@@ -7,4 +7,7 @@ There are sample projects available.
 
 [Smart on FHIR](http://docs.smarthealthit.org/)
 
-[**Back to Directory** ](https://howardedidin.github.io/Mini-Connectathon/)
+ 
+----------
+
+[Back to Directory](https://howardedidin.github.io/Mini-Connectathon/)

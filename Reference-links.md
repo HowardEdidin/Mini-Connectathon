@@ -3,7 +3,7 @@ Reference Links
 
 
 
-[FHIR STU3 Specification](http://hl7.org/fhir/2017Jan/index.html):
+[FHIR STU3 Specification](http://hl7.org/fhir/STU3/index.html):
     
 
 

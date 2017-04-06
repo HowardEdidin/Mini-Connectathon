@@ -1,4 +1,4 @@
-Laptop Setup and Configuration
+ Laptop Setup and Configuration
 ==============================
 
 If you are using a company laptop, please ask your IT Department to install and configure 
@@ -32,6 +32,8 @@ Recommended
 Please register at https://chat.fhir.org/register/ 
 
 Subscribe to the **Connectathon Mgmt** stream to be able to see the 'Mini Connectathon…’ Track specific conversations
+
+![](http://i.imgur.com/TYHfa4i.png)
 
 You will be able to use your browser. 
 

@@ -19,5 +19,5 @@ Resources
 
 [Payer Extract Implementation Guide (IG)](http://ig.fhir.me/cqframework/payerextract/)
 
-
+----------
 [**Back to Directory** ](https://howardedidin.github.io/Mini-Connectathon/)

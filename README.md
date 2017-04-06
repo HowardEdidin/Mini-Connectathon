@@ -7,6 +7,12 @@ Mini-Connectathon
 
 ----------
 
+[Before Arrival ](https://github.com/HowardEdidin/Mini-Connectathon/blob/master/Before-Arrival.md)
+
+
+
+----------
+
 
 [Implementation Resources ](https://github.com/HowardEdidin/Mini-Connectathon/blob/master/Implementation-Resources.md)
 

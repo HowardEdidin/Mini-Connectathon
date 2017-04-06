@@ -1,3 +1,4 @@
+
 Laptop Setup and Configuration
 ==============================
 
@@ -26,7 +27,12 @@ Setting up an environment
 **Zulip will be used for group chat**.  
 Please register at https://chat.fhir.org/register/ 
 
+Subscribe to the **Connectathon Mgmt** stream to be able to see the 'Mini Connectathon…’ Track specific conversations
+
 You will be able to use your browser. 
+
+There is a desktop appplication available for download.
+However, I discovered that it is difficult to view on 1920 x 1080 monitors.
 
 ----------
 Ports 80 and 443 must be open in the firewall on your laptop.

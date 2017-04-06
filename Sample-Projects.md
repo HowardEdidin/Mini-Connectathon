@@ -1,7 +1,7 @@
  Sample Projects
 ===============
 
-There are sample projects available on GitHub 
+There are sample projects available. 
 
 [Fhir Starter Projects](https://github.com/furore-fhir/fhirstarters)  
 

@@ -1,4 +1,4 @@
-Implementation Resources
+ Implementation Resources
 ========================
 
 [CQL Tooling Repository](https://github.com/cqframework/clinical_quality_language)
@@ -15,5 +15,5 @@ Implementation Resources
 
 [Payer Extract IG Source](https://github.com/cqframework/payerextract)
 
-
+----------
 [**Back to Directory** ](https://howardedidin.github.io/Mini-Connectathon/)

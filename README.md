@@ -1,3 +1,4 @@
+
 Mini-Connectathon
 =================
 
@@ -41,6 +42,10 @@ Mini-Connectathon
 
 [Sample Projects](https://github.com/HowardEdidin/Mini-Connectathon/blob/master/Sample-Projects.md)
 
+
+----------
+
+[Downloads](https://github.com/HowardEdidin/Mini-Connectathon/blob/master/Downloads.md)
 
 ----------
 

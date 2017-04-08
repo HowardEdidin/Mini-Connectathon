@@ -10,7 +10,7 @@ Setting up an environment
 
 ### .Net ###
 
-1. Visual Studio 2015
+1. Visual Studio 2015 or 2017
 2. Create a new .Net solution and add the Hl7.Fhir.STU3 package with NuGet 
 
 Recommended 

@@ -1,6 +1,11 @@
 Test Servers Available
 ======================
 
+### There are cloud based testing platform (Self-service) which are designed/built from the ground up to support FHIR Implementation testing.  These test platforms leverage a Level-1 FHIR Resource (FHIR Test Script).
+
+[Touchstone (AEGIS.net, Inc)] (http://www.touchstone.com) : See Mario Hyland (@Interopguy for support) at the Testing Table
+
+
 ### These are publicly available test servers that implement the STU3 of the FHIR specification and will be pre-loaded with the test data: ###
 
 [Health Intersections](http://fhir3.healthintersections.com.au/ )

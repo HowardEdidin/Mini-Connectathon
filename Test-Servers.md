@@ -12,7 +12,7 @@ Test Servers Available
 
 [HAPI / University Health Network ](http://fhirtest.uhn.ca/baseDstu3 )
 
-[AEGIS.net, Inc](http://wildfhir.aegis.net/fhir1-8-0)
+[AEGIS.net, Inc](http://wildfhir.aegis.net/fhir3-0-0)
 
 [Telstra Health(HealthConnex)](http://sqlonfhir-stu3.azurewebsites.net/fhir )
 
